@@ -11,9 +11,9 @@ C1 | 1 | 100uf | tayda | [A-1063](https://www.taydaelectronics.com/catalogsearch
 C2, C3, C4, C5 | 4 | 0.1uf | tayda | [A-4008](https://www.taydaelectronics.com/catalogsearch/result/?q=A-4008) | B
 D1, D2 | 2 | 1N4148 | tayda | [A-157](https://www.taydaelectronics.com/catalogsearch/result/?q=A-157) | C
 J1 | 1 | europower header (optional) | tayda | [A-2956](https://www.taydaelectronics.com/catalogsearch/result/?q=A-2956) | -
-J2, J4, J6 | 1 | AudioJackTSR | tayda | [A-853](https://www.taydaelectronics.com/catalogsearch/result/?q=A-853) | B , C
+J2, J4, J6 | 3 | AudioJackTSR | tayda | [A-853](https://www.taydaelectronics.com/catalogsearch/result/?q=A-853) | B , C
 J3 | 1 | DSUB9 | tayda | [A-300](https://www.taydaelectronics.com/catalogsearch/result/?q=A-300) | B , C
-J5, J7 | 1 | DIN-5 | tayda | [A-1010](https://www.taydaelectronics.com/catalogsearch/result/?q=A-1010) | B , C
+J5, J7 | 2 | DIN-5 | tayda | [A-1010](https://www.taydaelectronics.com/catalogsearch/result/?q=A-1010) | B , C
 R1, R2, R3 | 3 |  220 | tayda | [A-2169](https://www.taydaelectronics.com/catalogsearch/result/?q=A-2169)  | C
 R4 | 1 | 10k | tayda | [A-2253](https://www.taydaelectronics.com/catalogsearch/result/?q=A-2253)  | C
 U1 | 1 | ProMicro5v | [ali](https://www.aliexpress.com/item/1348800135.html) [amazon](https://www.amazon.com/OSOYOO-ATmega32U4-arduino-Leonardo-ATmega328/dp/B012FOV17O/), [sparkfun](https://www.sparkfun.com/products/12640) | - | A
